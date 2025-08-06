@@ -6,7 +6,7 @@ Contains OpenAPI descriptions and documentation for Retarus Transactional Email 
 ### `/latest/` Directory
 
 #### Purpose
-- Contains the current, active versions of all Retarus Cloud Fax APIs.
+- Contains the current, active versions of all Retarus Transactional Email APIs.
 
 #### Redocly Integration
 - Individual `openapi/` subdirectories are watched by **Redocly** for API documentation generation (see https://developers.retarus.com/).

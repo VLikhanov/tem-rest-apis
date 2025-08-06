@@ -61,30 +61,14 @@ A single `CHANGELOG.md` file in the root directory contains changes for all APIs
 
 ---
 
-## Fax REST APIs Overview
+## Transactional Email REST APIs Overview
 
-**Retarus Cloud Fax** provides three main REST APIs:
-
-### 1. Sending Fax API
+### Sending Fax API
 - Handles fax transmission, scheduling, and delivery management.
 
-  - **Current Version:** Located in `latest/sending-fax-api/` (**OpenAPI 3.x**)
-  - **Legacy Version:** `legacy/sending-fax-api-swagger-2x.json` ⚠️ DEPRECATED
-  - **Historical Versions:** `versions/sending-fax-api/v[version_number]/`
-
-### 2. Receiving Fax API
-- Manages incoming fax reception, processing, and notification handling.
-
-  - **Current Version:** Located in `latest/receiving-fax-api/` (**OpenAPI 3.x**)
-  - **Legacy Version:** `legacy/receiving-fax-api-swagger-2x.json` ⚠️ DEPRECATED
-  - **Historical Versions:** `versions/receiving-fax-api/v[version_number]/`
-
-### 3. Fax Status API
-- Provides real-time status tracking and delivery confirmation for sent faxes.
-
-  - **Current Version:** Located in `latest/fax-status-push-api/` (**OpenAPI 3.x**)
-  - **Legacy Version:** `legacy/fax-status-api-swagger-2.x.json` ⚠️ DEPRECATED
-  - **Historical Versions:** `versions/fax-status-api/v[version_number]/`
+  - **Current Version:** Located in `latest/sending-email-api/` (**OpenAPI 3.x**)
+  - **Legacy Version:** `legacy/sending-email-api-swagger-2x.json` ⚠️ DEPRECATED
+  - **Historical Versions:** `versions/sending-email-api/v[version_number]/`
 
 ---
 
